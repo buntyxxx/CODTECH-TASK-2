@@ -1,5 +1,8 @@
 Name: Krishna sai chenchala
-Company: CODTECH IT SOLUTIONS ID: CT04DAX395 Domain: Data Analysis Duration: 15th june to 15th july
+Company: CODTECH IT SOLUTIONS 
+ID: CT04DAX395 
+Domain: Data Analysis 
+Duration: 15th june to 15th july
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
